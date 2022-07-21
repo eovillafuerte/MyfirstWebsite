@@ -1,8 +1,12 @@
 
+    hr {
+        border-style: none;
+        border-top-style: dotted;
+        border-color:white;
+        width: 5%;
+        border-width: 7px;
+      }
+
     body {
       background-color: powderblue;
     }
-    hr {
-      background-color: white;
-    }
- 
